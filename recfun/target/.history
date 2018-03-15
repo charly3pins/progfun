@@ -1,0 +1,15 @@
+sbt test
+test
+testOnly BalanceSuite
+test
+testOnly *PscalSuite 
+testOnly PscalSuite 
+test PscalSuite 
+testOnly PascalSuite 
+test PascalSuite 
+testOnly PascalSuite
+testOnly *PascalSuite
+testOnly *BalanceSuite
+testOnly *CountChangeSuite
+test
+submit charlyfb90@gmail.com rstxxZk90Zj4QeRP
